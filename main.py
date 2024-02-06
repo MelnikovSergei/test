@@ -15,6 +15,8 @@ def plusser(value):
     return "hui" + str(value[1])
 
 
+def lkajd():
+    pass
 x = map(plusser, drop_df.iterrows())
 print(x)
 
