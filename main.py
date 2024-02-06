@@ -6,8 +6,7 @@ df = pd.read_csv("stack-overflow-developer-survey-2022/hui.csv")
 
 drop_df = df.dropna()
 
-print(df)
-# lkjflsdj
+print(drop_df)
 
 
 def plusser(value):
@@ -24,4 +23,7 @@ y = pd.DataFrame(x)
 pp.pprint(y)
 
 def pas():
+    pass
+
+def blabla():
     pass
