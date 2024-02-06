@@ -23,3 +23,5 @@ print(x)
 y = pd.DataFrame(x)
 pp.pprint(y)
 
+def pas():
+    pass
