@@ -6,8 +6,8 @@ df = pd.read_csv("stack-overflow-developer-survey-2022/hui.csv")
 
 drop_df = df.dropna()
 
-print(drop_df)
-print()
+print(df)
+# lkjflsdj
 
 
 def plusser(value):
